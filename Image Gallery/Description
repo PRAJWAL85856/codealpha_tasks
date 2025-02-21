@@ -1,0 +1,5 @@
+A fully responsive and interactive image gallery created using HTML, CSS, and JavaScript. 
+Features include a grid layout for images, a modal view for enlarged images, and smooth navigation between images.
+The gallery is optimized for performance with lazy loading and image compression, ensuring fast load times.
+The project is fully responsive, with hover effects and dynamic content loading, offering a seamless user experience across all devices.
+
